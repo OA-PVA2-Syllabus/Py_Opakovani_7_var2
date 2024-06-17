@@ -10,7 +10,7 @@
 
 ## Obsah
 
-- Naprogramujte GUI program pro výpočet výpočet ceny provozních nákladů stroje a navrhované prodejní ceny. Uživatel v grafickém prostředí bude zadávat počet motohodin, vybírat/nastavovat parametry kalkulace. 
+- Naprogramujte GUI program pro výpočet výpočet ceny provozních nákladů stroje a navrhované prodejní ceny. Uživatel v grafickém prostředí bude zadávat počet motohodin, vybírat/nastavovat parametry kalkulace.
 - Nákladová cena za provoz stroje je určena za motohodinu dle vybrané řady stroje:
   - ASP - 48000 Kč
   - SHV - 4300 Kč
@@ -22,5 +22,5 @@
   - Náklad
   - Prodejní cenu
   - Zisk
-
+- Pro realizaci řešení využijte všechny probírané postupy, řešení a best practices.
   
